@@ -17,6 +17,5 @@ I’m @AR621, aspiring electronics student at WUST. Here is some basic informati
 ## Currently working on 🌱
 - my bechelors dagree paper about quantum computing
 - my [android app](https://play.google.com/store/apps/details?id=ksworks.potentiak.arshabitus)
-- some cool python projects such as 👉 [mo-cap visualization](https://github.com/AR621/motion-gainz)
 ## Contact
 - p.dolacinski301@gmail.com 📫
