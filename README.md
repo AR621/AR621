@@ -5,6 +5,14 @@ https://github.com/AR621/motion-gainz/blob/main/showcase/prezes_kiwa.gif?raw=tru
 
 I’m @AR621, aspiring electronics student at WUST. Here is some basic information about me
 
+## My skills :muscle:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,c,cpp,matlab,py,flask,git,github,raspberrypi,arduino,ai,tensorflow,pytorch" />
+  </a>
+</p>
+
 ## My interests 👀
 -  programming (duh)
 -  Data science 
@@ -15,7 +23,7 @@ I’m @AR621, aspiring electronics student at WUST. Here is some basic informati
 -  linux and open source community
 
 ## Currently working on 🌱
-- my bechelors dagree paper about quantum computing
-- my [android app](https://play.google.com/store/apps/details?id=ksworks.potentiak.arshabitus)
+- my python skills :sunglasses:
+- [Summar'z3 app]([https://play.google.com/store/apps/details?id=ksworks.potentiak.arshabitus](https://github.com/AR621/Summ3r-y))
 ## Contact
 - p.dolacinski301@gmail.com 📫
