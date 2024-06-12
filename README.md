@@ -9,7 +9,7 @@ I’m @AR621, I like solving problems with code ;)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,cpp,py,ai,tensorflow,pytorch,docker,helm,django,flask,git,github,raspberrypi,arduino,matlab" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,cpp,py,ai,tensorflow,pytorch,docker,kubernetes,django,flask,git,github,matlab" />
   </a>
 </p>
 
